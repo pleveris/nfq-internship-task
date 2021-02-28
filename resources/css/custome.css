@@ -1,0 +1,35 @@
+.navigation {
+    background-color: #333;
+    overflow: hidden;
+}
+
+.container {
+    max-width: 450px;
+}
+.top {
+    margin-top: 50px;
+    }
+
+.data, .data * { background-color: #001F07!important}
+
+table {color: #FFFFEF;}
+table.text1 {
+    background-color: #001F00;
+    border-color: #AFAFE0;
+    border-spacing: 0px;
+    border-width: 2px
+}
+
+td.soft {
+    border-width: thin;
+    border-color: #7F7F7F;
+}
+td.text2 {
+    font-size: 125%;
+    text-indent:5px
+}
+
+th {
+    color: #FFFFBF;
+    font-size: 133%;
+}
